@@ -13,6 +13,18 @@ pnpm dev
 # or
 bun dev
 ```
+To run test cases
+
+```bash
+npm run test
+```
+
+To run storybook interaction tests 
+
+```bash
+npm run storybook
+```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
