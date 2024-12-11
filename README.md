@@ -13,7 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
-To run test cases
+To run unit test
 
 ```bash
 npm run test
